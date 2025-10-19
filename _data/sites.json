@@ -10120,6 +10120,13 @@
         "domains": ["jalopnik.com"]
     },
     {
+        "name": "JanitorAI",
+        "url": "https:/janitorai.com/",
+        "difficulty": "medium",
+        "notes": "Click on your profile, then Settings, then the Security tab, and then finally scroll to the bottom. There is a 'danger zone' with a delete account button. After it asks you to confirm your choice, you will get a 6 digit code sent to your email. It is used to finally delete the account. Input it into the prompt and click Delete.",
+        "domains": ["janitorai.com"]
+    },
+    {
         "name": "JavaRush",
         "url": "https://javarush.com/en/settings/security",
         "url_ru": "https://javarush.com/settings/security",
